@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd7f485b-6126-4ad1-97b4-14ada992e6da" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/metrics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#101#482#0" />
+                <element signature="e#520#780#0" />
+                <element signature="e#830#1306#0" />
+                <element signature="e#1337#3443#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/archs_backup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="2106" column="3" selection-start-line="2106" selection-start-column="3" selection-end-line="2106" selection-end-column="3" />
+              <folding>
+                <element signature="e#50632#56192#0" />
+                <element signature="e#56239#62432#0" />
+                <element signature="e#62579#62857#0" />
+                <element signature="e#62928#64004#0" />
+                <element signature="e#64059#68228#0" />
+                <element signature="e#68264#73555#0" />
+                <element signature="e#73700#77140#1" />
+                <element signature="e#77142#80642#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/losses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="102" column="17" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#460#785#0" />
+                <element signature="e#831#1219#0" />
+                <element signature="e#1253#1654#0" />
+                <element signature="e#2348#2987#0" />
+                <element signature="e#3159#3671#0" />
+                <element signature="e#3712#3945#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segmentation-refinement/segmentation_refinement/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#351#3547#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segmentation-refinement/segmentation_refinement/models/psp/extractors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/segmentation-refinement/segmentation_refinement/models/psp/pspnet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#164#1065#0" />
+                <element signature="e#1102#2188#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/archs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27830">
+              <caret line="1481" selection-start-line="1481" selection-end-line="1481" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#50760#51116#0" />
+                <element signature="e#51155#51655#0" />
+                <element signature="e#51703#52090#0" />
+                <element signature="e#52129#52972#0" />
+                <element signature="e#53006#55312#0" />
+                <element signature="e#55549#57830#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_Canet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="44" column="55" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>train_loader</find>
+      <find>val_img_ids</find>
+      <find>0.2</find>
+      <find>unetConv2</find>
+      <find>SqueezeExcite</find>
+      <find>hannle attention module</find>
+      <find>compose</find>
+      <find>cached_file</find>
+      <find>model_dir</find>
+      <find>_legacy_zip_load</find>
+      <find>get_dir</find>
+      <find>model_zoo</find>
+      <find>model2</find>
+      <find>backend</find>
+      <find>cuda</find>
+      <find>model</find>
+      <find>save</find>
+      <find>img_ext</find>
+      <find>num_workers</find>
+      <find>val_loader</find>
+      <find>input_w</find>
+      <find>UNetRM</find>
+      <find>out_size</find>
+      <find>nnlayers</find>
+      <find>fv</find>
+      <find>Callable</find>
+      <find>Loss</find>
+      <find>mean</find>
+      <find>BCEDiceLoss</find>
+      <find>Linear</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/preprocess_dsb2018.py" />
+        <option value="$PROJECT_DIR$/trains.py" />
+        <option value="$PROJECT_DIR$/Ploting.py" />
+        <option value="$PROJECT_DIR$/../ghostnet-master/pytorch/ghostnet.py" />
+        <option value="$PROJECT_DIR$/arches.py" />
+        <option value="$PROJECT_DIR$/trainISIC_wAcc.py" />
+        <option value="$PROJECT_DIR$/finished/archs2.py" />
+        <option value="$PROJECT_DIR$/dataset.py" />
+        <option value="$USER_HOME$/Downloads/train_ISIC (1).py" />
+        <option value="$USER_HOME$/Downloads/arches.py" />
+        <option value="$USER_HOME$/Downloads/archs.py" />
+        <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/cascadePSP_model/psp/extractors.py" />
+        <option value="$PROJECT_DIR$/segmentation-refinement/segmentation_refinement/main.py" />
+        <option value="$PROJECT_DIR$/metrics.py" />
+        <option value="$PROJECT_DIR$/cascadePSP_model/psp/pspnet.py" />
+        <option value="$PROJECT_DIR$/train_ISIC.py" />
+        <option value="$PROJECT_DIR$/archs_backup.py" />
+        <option value="$PROJECT_DIR$/train_ISIC_ca.py" />
+        <option value="$PROJECT_DIR$/train_Canet.py" />
+        <option value="$PROJECT_DIR$/archs.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="355" />
+    <option name="y" value="176" />
+    <option name="width" value="1348" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pytorch-nested-unet-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-nested-unet-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch-nested-unet-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-nested-unet-master" type="462c0819:PsiDirectoryNode" />
+              <item name="cascadePSP_model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch-nested-unet-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-nested-unet-master" type="462c0819:PsiDirectoryNode" />
+              <item name="cascadePSP_model" type="462c0819:PsiDirectoryNode" />
+              <item name="psp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch-nested-unet-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-nested-unet-master" type="462c0819:PsiDirectoryNode" />
+              <item name="cascadePSP_model" type="462c0819:PsiDirectoryNode" />
+              <item name="sync_batchnorm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch-nested-unet-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-nested-unet-master" type="462c0819:PsiDirectoryNode" />
+              <item name="inputs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../idolish7-DoubleU-Net-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Ploting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch-nested-unet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ploting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch-nested-unet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/segmentation-refinement/segmentation_refinement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/segmentation-refinement/segmentation_refinement/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess_dsb2018" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch-nested-unet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocess_dsb2018.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_ISIC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch-nested-unet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_ISIC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch-nested-unet-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.train_ISIC" />
+        <item itemvalue="Python.Ploting" />
+        <item itemvalue="Python.preprocess_dsb2018" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd7f485b-6126-4ad1-97b4-14ada992e6da" name="Default Changelist" comment="" />
+      <created>1602909002254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602909002254</updated>
+      <workItem from="1602909011796" duration="4552000" />
+      <workItem from="1602917113440" duration="9981000" />
+      <workItem from="1603181496299" duration="7440000" />
+      <workItem from="1603266975437" duration="62633000" />
+      <workItem from="1603610616230" duration="84138000" />
+      <workItem from="1604392755332" duration="4935000" />
+      <workItem from="1604547590715" duration="2401000" />
+      <workItem from="1604569265265" duration="11120000" />
+      <workItem from="1604842204856" duration="2834000" />
+      <workItem from="1604889056863" duration="25366000" />
+      <workItem from="1605160144647" duration="752000" />
+      <workItem from="1605168007560" duration="1399000" />
+      <workItem from="1605324595625" duration="19208000" />
+      <workItem from="1605587211285" duration="18477000" />
+      <workItem from="1605668199176" duration="33980000" />
+      <workItem from="1605796790830" duration="1380000" />
+      <workItem from="1605798398850" duration="609000" />
+      <workItem from="1605836979751" duration="19303000" />
+      <workItem from="1605876584766" duration="10231000" />
+      <workItem from="1605947857042" duration="28935000" />
+      <workItem from="1606830662249" duration="778000" />
+      <workItem from="1606917873645" duration="25439000" />
+      <workItem from="1607397825583" duration="20138000" />
+      <workItem from="1607591449932" duration="2415000" />
+      <workItem from="1611331715718" duration="4093000" />
+      <workItem from="1612077504183" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="403136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="355" y="176" width="1348" height="1085" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7077922" visible="true" weight="0.14906833" />
+      <window_info id="Structure" order="1" sideWeight="0.29220778" side_tool="true" weight="0.18878813" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3155416" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39952904" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5028854" side_tool="true" weight="0.2747253" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4971146" visible="true" weight="0.24894957" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.33693844" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="paths" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch_nested_unet_master$preprocess_dsb2018.coverage" NAME="preprocess_dsb2018 Coverage Results" MODIFIED="1603255153525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_nested_unet_master$main.coverage" NAME="main Coverage Results" MODIFIED="1605763674774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/segmentation-refinement/segmentation_refinement" />
+    <SUITE FILE_PATH="coverage/pytorch_nested_unet_master$Ploting.coverage" NAME="Ploting Coverage Results" MODIFIED="1603852574295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_nested_unet_master$try.coverage" NAME="try Coverage Results" MODIFIED="1605606684608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_nested_unet_master$train_ISIC.coverage" NAME="train_ISIC Coverage Results" MODIFIED="1605338634419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>paths</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../../Miniconda/install/Lib/site-packages/tqdm/_tqdm.py" />
+    <entry file="file://$PROJECT_DIR$/CRDN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#249#3661#0" />
+            <element signature="e#3763#8217#0" />
+            <element signature="e#8283#9101#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="95" column="41" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="41" />
+          <folding>
+            <element signature="e#63#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ghostnet-master/pytorch/ghostnet.py" />
+    <entry file="file://$PROJECT_DIR$/../Pytorch-UNet  X/dice_loss.py" />
+    <entry file="file://$PROJECT_DIR$/../idolish7-X-Net-master/X-Net/utils.py" />
+    <entry file="file://$PROJECT_DIR$/../Unet-Segmentation-Pytorch-Nest-of-Unets-master X/Metrics.py" />
+    <entry file="file://$USER_HOME$/Desktop/metrics.py" />
+    <entry file="file://$USER_HOME$/Downloads/CRDN/archs.py" />
+    <entry file="file://$PROJECT_DIR$/arches.py" />
+    <entry file="file://$PROJECT_DIR$/finished/arches.py" />
+    <entry file="file://$USER_HOME$/Downloads/CRDN/archs_woGhost.py" />
+    <entry file="file://$PROJECT_DIR$/finished/archs.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../../Miniconda/install/envs/tensorflow/Lib/site-packages/torch/nn/modules/conv.py" />
+    <entry file="file://$PROJECT_DIR$/finished/archs2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="224" column="41" selection-start-line="224" selection-start-column="41" selection-end-line="224" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#260#862#0" />
+            <element signature="e#966#2605#0" />
+            <element signature="e#2641#5957#0" />
+            <element signature="e#5985#9626#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/losses.py" />
+    <entry file="file://$PROJECT_DIR$/trainISIC_wAcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#860#4261#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../Miniconda/install/envs/tensorflow/Lib/site-packages/albumentations/augmentations/transforms.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../../Miniconda/install/envs/tensorflow/Lib/site-packages/sklearn/model_selection/_split.py" />
+    <entry file="file://$USER_HOME$/Downloads/train_ISIC (1).py" />
+    <entry file="file://$USER_HOME$/Downloads/train_ISIC.py" />
+    <entry file="file://$USER_HOME$/Downloads/arches.py" />
+    <entry file="file://$USER_HOME$/Downloads/archs.py" />
+    <entry file="file://F:/codSoftware/anaconda/install/Lib/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="261" selection-start-line="261" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py" />
+    <entry file="file://F:/codSoftware/anaconda/install/Lib/site-packages/torch/hub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="222" column="11" selection-start-line="222" selection-start-column="4" selection-end-line="222" selection-end-column="11" />
+          <folding>
+            <element signature="e#18807#21447#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ploting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+          <folding>
+            <element signature="e#123#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/242522669/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="180" column="4" selection-start-line="180" selection-start-column="4" selection-end-line="180" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/codSoftware/anaconda/install/Lib/site-packages/segmentation_refinement/models/psp/extractors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#355#1480#0" />
+            <element signature="e#1512#3504#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/codSoftware/anaconda/install/Lib/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="393" column="8" selection-start-line="393" selection-start-column="8" selection-end-line="393" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cascadePSP_model/psp/extractors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="117" column="26" selection-start-line="117" selection-start-column="26" selection-end-line="117" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#280#984#0" />
+            <element signature="e#1144#1283#0" />
+            <element signature="e#1319#2172#0" />
+            <element signature="e#2208#3360#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/codSoftware/anaconda/install/Lib/site-packages/segmentation_refinement/eval_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#1541#5618#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cascadePSP_model/sync_batchnorm/batchnorm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="179" column="29" selection-start-line="179" selection-start-column="6" selection-end-line="179" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/codSoftware/anaconda/install/Lib/site-packages/segmentation_refinement/models/psp/pspnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#1102#2188#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/codSoftware/anaconda/install/Lib/site-packages/torchvision/transforms/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://H:/新建文件夹/r2_unet(256, 256, 1).txt" />
+    <entry file="file://$PROJECT_DIR$/cascadePSP_model/psp/pspnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="97" column="11" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#125#2365#0" />
+            <element signature="e#229#1271#1" />
+            <element signature="e#2418#4950#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ISIC_ca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="87" column="58" lean-forward="true" selection-start-line="87" selection-start-column="58" selection-end-line="87" selection-end-column="58" />
+          <folding>
+            <element signature="e#214#229#0" expanded="true" />
+            <element signature="e#4520#5908#0" />
+            <element signature="e#5967#7554#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_ISIC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="26" lean-forward="true" selection-end-line="386" />
+          <folding>
+            <element signature="e#213#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_pyv94b1cyqqs22/FileStorage/File/2020-12/svr1 (2).ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://F:/codSoftware/anaconda/install/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15730">
+          <caret line="726" selection-start-line="726" selection-end-line="726" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#357#715#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#101#482#0" />
+            <element signature="e#520#780#0" />
+            <element signature="e#830#1306#0" />
+            <element signature="e#1337#3443#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/losses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="102" column="17" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#460#785#0" />
+            <element signature="e#831#1219#0" />
+            <element signature="e#1253#1654#0" />
+            <element signature="e#2348#2987#0" />
+            <element signature="e#3159#3671#0" />
+            <element signature="e#3712#3945#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segmentation-refinement/segmentation_refinement/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#351#3547#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segmentation-refinement/segmentation_refinement/models/psp/extractors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segmentation-refinement/segmentation_refinement/models/psp/pspnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#164#1065#0" />
+            <element signature="e#1102#2188#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27830">
+          <caret line="1481" selection-start-line="1481" selection-end-line="1481" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#50760#51116#0" />
+            <element signature="e#51155#51655#0" />
+            <element signature="e#51703#52090#0" />
+            <element signature="e#52129#52972#0" />
+            <element signature="e#53006#55312#0" />
+            <element signature="e#55549#57830#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_Canet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="44" column="55" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archs_backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="2106" column="3" selection-start-line="2106" selection-start-column="3" selection-end-line="2106" selection-end-column="3" />
+          <folding>
+            <element signature="e#50632#56192#0" />
+            <element signature="e#56239#62432#0" />
+            <element signature="e#62579#62857#0" />
+            <element signature="e#62928#64004#0" />
+            <element signature="e#64059#68228#0" />
+            <element signature="e#68264#73555#0" />
+            <element signature="e#73700#77140#1" />
+            <element signature="e#77142#80642#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
